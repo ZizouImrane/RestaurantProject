@@ -1,0 +1,11 @@
+/Users/imrane/Projects/RestaurantProject/RestaurantProject/bin/Debug/netcoreapp2.1/RestaurantProject.deps.json
+/Users/imrane/Projects/RestaurantProject/RestaurantProject/bin/Debug/netcoreapp2.1/RestaurantProject.runtimeconfig.json
+/Users/imrane/Projects/RestaurantProject/RestaurantProject/bin/Debug/netcoreapp2.1/RestaurantProject.runtimeconfig.dev.json
+/Users/imrane/Projects/RestaurantProject/RestaurantProject/bin/Debug/netcoreapp2.1/RestaurantProject.dll
+/Users/imrane/Projects/RestaurantProject/RestaurantProject/bin/Debug/netcoreapp2.1/RestaurantProject.pdb
+/Users/imrane/Projects/RestaurantProject/RestaurantProject/obj/Debug/netcoreapp2.1/RestaurantProject.csprojAssemblyReference.cache
+/Users/imrane/Projects/RestaurantProject/RestaurantProject/obj/Debug/netcoreapp2.1/RestaurantProject.csproj.CoreCompileInputs.cache
+/Users/imrane/Projects/RestaurantProject/RestaurantProject/obj/Debug/netcoreapp2.1/RestaurantProject.AssemblyInfoInputs.cache
+/Users/imrane/Projects/RestaurantProject/RestaurantProject/obj/Debug/netcoreapp2.1/RestaurantProject.AssemblyInfo.cs
+/Users/imrane/Projects/RestaurantProject/RestaurantProject/obj/Debug/netcoreapp2.1/RestaurantProject.dll
+/Users/imrane/Projects/RestaurantProject/RestaurantProject/obj/Debug/netcoreapp2.1/RestaurantProject.pdb
